@@ -6,4 +6,4 @@ Like this: `PlayerName: XXXX VehicleName:  U_FRA_StChamond_Package_Standoff`
 # How to use it?
 You only pay attention to the region which name is CoreFunction.You can take this codes into your program and can get vehicle name easy.  
 # Demo
-[Bilibili](https://www.bilibili.com/video/BV1dM41167Fz/)
+[BiliBili](https://www.bilibili.com/video/BV1dM41167Fz/)
