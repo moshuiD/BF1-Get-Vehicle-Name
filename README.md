@@ -1,4 +1,5 @@
-# BF1-Get-Vehicle-Name
+# BF1-Get-Vehicle-Name  
+<s>The first in the world get vehicle detailed name</s>
 # What is it?
 Using C++ to get vehicle detailed name in battlefield 1  
 Like this: `PlayerName: XXXX VehicleName:  U_FRA_StChamond_Package_Standoff`
